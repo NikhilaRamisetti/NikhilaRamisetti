@@ -4,6 +4,9 @@ Hi there! I'm a passionate AI enthusiast and a Master's student specializing in 
 My journey through the world of artificial intelligence has led me to explore a variety of exciting projects. 
 I believe in hands-on learning, and my GitHub repositories are a reflection of my dedication to mastering AI technologies.
 
+I am currently studying and exploring Stable diffusion.
+https://arxiv.org/abs/2112.10752
+
 ## About Me
 
 - 📚 Master's student in AI
@@ -13,8 +16,9 @@ I believe in hands-on learning, and my GitHub repositories are a reflection of m
 
 ## What You'll Find Here
 
-My GitHub is a playground for various AI-related projects. 
-I'm constantly learning and experimenting, and I invite you to join me on this journey. 
+My GitHub is a playground for various AI-related projects. Especially Generative AI projects lately, GANs and stable diffusion.
+https://github.com/NikhilaRamisetti/Data_Augmentation_StyleGANs
+https://github.com/NikhilaRamisetti/Data_Augmentation_GANs
 Feel free to explore my repositories, contribute, or reach out for collaboration.
 
 ## Connect with Me
